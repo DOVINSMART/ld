@@ -168,8 +168,8 @@ h6 {
   }
 
   #header #logo img {
-    max-height: 190px;
-    width: 300px;
+    //max-height: 190px;
+    width: 200px;
   }
 }
 
