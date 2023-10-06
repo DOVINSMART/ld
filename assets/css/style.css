@@ -94,6 +94,13 @@ h6 {
   color: #50d8af;
 }
 
+@media (max-width: 768px) {
+  #topbar .contact-info i {
+    display: none;
+  }
+
+}
+
 #topbar .contact-info i a,
 #topbar .contact-info i span {
   padding-left: 5px;
